@@ -2,21 +2,22 @@
 
 <div id="header" align="center">
 
-![Raeli profile banner](https://user-images.githubusercontent.com/26192879/192193081-b6dc81b0-4b51-482c-b0b8-592698741481.gif)
-  <a href="https://www.linkedin.com/in/raelimasina">
+![yuva profile banner](https://github.com/ymula/ymula/blob/main/Brown%20and%20White%20Full%20Photo%20Laptop%20Twitter%20Header.png)
+  <a href="https://www.linkedin.com/in/yuvasree-mulagundla/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC1ePEKcxruxoXJXzqkNB-sg">
+  <a href="www.youtube.com/@yuvasreereddy5811">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.twitter.com/raelimasina">
+  <a href="https://www.kaggle.com/yuvamulag">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=raelimasina&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Hi, I'm Raeli :wave:
+# Hi, I'm Yuva :wave:
 After graduating with my Bachelor’s degree, I decided to apply my education towards starting my own design business. Over the years it grew to include an online shop -- managed and designed by myself -- which had an increase in sales of over 300% in one year. Ready for a new adventure, I am currently looking for work as a Software Engineer with a focus in web development so that I can put my logic and data-driven skills to use in a new environment. When I am not coding, I enjoy spending my time participating in TTRPGs, spinning yarn from wool, knitting, and playing video games.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raelimasina&theme=highcontrast&background=000000)](https://git.io/streak-stats)
