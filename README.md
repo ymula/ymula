@@ -42,7 +42,3 @@ After graduating with my Bachelor’s degree, I decided to apply my education to
  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 </div>
 
-< ## :fire: My Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raelimasina&theme=highcontrast&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raelimasina&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) >
