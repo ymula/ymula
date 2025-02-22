@@ -25,8 +25,6 @@
 
 
 - :smiley: Pronouns: she/her
-- :yarn: In my past career as a quality analyst, I focused on creating accessible solutions and shared what I learned with other analysts. I also focused on making solutions available to the team. 
-- 🌱  I'm currently learning data engineer tools like apache spark, Hadoop.
 - :movie_camera: I enjoy creating projects on kaggle with different data analysis topics using kaggle datasets also have fun with doing coursera guided projects.
 
 ## :hammer_and_wrench: Languages and Tools:
