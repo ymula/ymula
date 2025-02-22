@@ -17,7 +17,6 @@
 </div>
 
 # Hi, I'm Yuva :wave:
-After graduating with my Bachelor’s degree, I decided to apply my education towards starting my first job.It is an e-learning app product based company that I worked,- managed the queries in production team. Soonly After I came to USA for my masters education in Computer science wher i leaned a vast about deep learning, computer vision, data mining, AWS, and programming languages like python and c++. My final project is on pretrained BERT Model and Contrastive Learning: Enhancing Twitter Sentiment Analyis.Ready for a new adventure, I am currently looking for work as a Data Engineer so that I can put my logic and data-driven skills to use in a new environment. When I am not coding, I enjoy spending my time participating in spinning class, Dancing, and playing Badminton.
 
 #[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymula&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 
